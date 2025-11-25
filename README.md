@@ -10,7 +10,5 @@ Front-End Developer (React/Next.js) & UI/UX Designer
 React, Next.js, TypeScript, TailwindCSS
 
 ## Contact
-Email: YOUR_EMAIL
-LinkedIn: YOUR_LINKEDIN
-#your email 
-Amirmokhtari20223@gmail.com
+Email: amirmokhtari20223@gmail.com 
+LinkedIn: amirjaxen 
